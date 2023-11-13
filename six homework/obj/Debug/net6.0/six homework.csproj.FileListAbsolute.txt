@@ -1,0 +1,14 @@
+D:\top academy\дз\six homework\six homework\bin\Debug\net6.0\six homework.exe
+D:\top academy\дз\six homework\six homework\bin\Debug\net6.0\six homework.deps.json
+D:\top academy\дз\six homework\six homework\bin\Debug\net6.0\six homework.runtimeconfig.json
+D:\top academy\дз\six homework\six homework\bin\Debug\net6.0\six homework.dll
+D:\top academy\дз\six homework\six homework\bin\Debug\net6.0\six homework.pdb
+D:\top academy\дз\six homework\six homework\obj\Debug\net6.0\six homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\top academy\дз\six homework\six homework\obj\Debug\net6.0\six homework.AssemblyInfoInputs.cache
+D:\top academy\дз\six homework\six homework\obj\Debug\net6.0\six homework.AssemblyInfo.cs
+D:\top academy\дз\six homework\six homework\obj\Debug\net6.0\six homework.csproj.CoreCompileInputs.cache
+D:\top academy\дз\six homework\six homework\obj\Debug\net6.0\six homework.dll
+D:\top academy\дз\six homework\six homework\obj\Debug\net6.0\refint\six homework.dll
+D:\top academy\дз\six homework\six homework\obj\Debug\net6.0\six homework.pdb
+D:\top academy\дз\six homework\six homework\obj\Debug\net6.0\six homework.genruntimeconfig.cache
+D:\top academy\дз\six homework\six homework\obj\Debug\net6.0\ref\six homework.dll
